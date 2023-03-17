@@ -1,0 +1,162 @@
+.header {
+    border-bottom: 1px solid #F2994A;
+    padding: 27px 0 13px 91px;
+}
+.header a {
+    text-decoration: none;
+    color: black;
+    padding: 13px;
+    font-size: 24px;
+    font-family: 'Red Hat Text';
+}
+.asosiy {
+    width: 86%;
+    margin: 0 auto;
+}
+.main {
+    display: flex;
+    justify-content: space-between;
+}
+.text {
+    margin-top: 140px;
+}
+.text1 {
+    width: 492px;
+    font-size: 45px;
+    color: #F2994A;
+    font-family: 'Red Hat Text';
+}
+.text2 {
+    font-family: 'Red Hat Text';
+    font-size: 24px;
+    color: black;
+    width: 426px;
+}
+.image {
+    width: 542px;
+    margin-top: 30px;
+}
+.image img {
+    width: 100%;
+}
+h2 {
+    color: #F2994A;
+    margin-top: 61px;
+    font-family: 'Red Hat Text';
+}
+.portfolio {
+    width: 100%;
+    display: flex;
+    border-radius: 40px;
+    box-shadow: 0px 0px 20px -7px rgba(0, 0, 0, 0.25);
+    margin-top: 37px;
+}
+.picture {
+    width: 318px;
+}
+.picture img {
+    width: 100%;
+    border-end-start-radius: 40px;
+    border-start-start-radius: 40px;
+}
+.about {
+    width: 595px;
+    margin-left: 20px;
+}
+.about .company {
+    font-size: 26px;
+    font-family: 'Red Hat Text';
+    color: #F2994A;
+}
+.about .text {
+    font-family: 'Red Hat Text';
+    font-size: 18px;
+    padding-top: 0;
+    margin-top: 0;
+    margin-bottom: 42px;
+}
+.about a {
+    text-decoration: none;
+    color: #2D9CDB;
+}
+.texnalogiyalar {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    margin-top: 61px;
+}
+.texno {
+    width: 287px;
+    height: 229px;
+    box-shadow: 0px 0px 20px -7px rgba(0, 0, 0, 0.25);
+    border-radius: 116px;
+    margin: 30px;
+}
+.texno img {
+    width: 104px;
+    margin: 55px 90px;
+}
+.texno1 {
+    width: 287px;
+    height: 229px;
+    box-shadow: 0px 0px 20px -7px rgba(0, 0, 0, 0.25);
+    border-radius: 116px;
+    margin: 30px;
+}
+.texno1 img {
+    width: 104px;
+    margin: 45px 90px;
+}
+.texno2 {
+    width: 287px;
+    height: 229px;
+    box-shadow: 0px 0px 20px -7px rgba(0, 0, 0, 0.25);
+    border-radius: 116px;
+    margin: 30px;
+}
+.texno2 img {
+    width: 104px;
+    margin: 50px 90px;
+}
+.texno3 {
+    width: 287px;
+    height: 229px;
+    box-shadow: 0px 0px 20px -7px rgba(0, 0, 0, 0.25);
+    border-radius: 116px;
+    margin: 30px;
+}
+.texno3 img {
+    width: 104px;
+    margin: 55px 90px;
+}
+.texno4 {
+    width: 287px;
+    height: 229px;
+    box-shadow: 0px 0px 20px -7px rgba(0, 0, 0, 0.25);
+    border-radius: 116px;
+    margin: 30px;
+}
+.texno4 img {
+    width: 171px;
+    margin: 55px 70px;
+}
+.footer {
+    display: flex;
+    justify-content: space-between;
+}
+.contact {
+    width: 450px;
+}
+.footer .contact .tel {
+    margin: 60px 0;
+}
+h3 {
+    color: #F2994A;
+    margin-top: 61px;
+    font-family: 'Red Hat Text';
+}
+.footer p, a {
+    font-family: 'Red Hat Text';
+    color: black;
+}
